@@ -27,4 +27,10 @@ Each model was trained on time-series features extracted from image sequences to
 -  Real-time data collection using webcam
 -  Preprocessed into `.npy` format
 
+## 🖼️ Sample Output
+Prediction results:
+![Lam_Letter](https://github.com/user-attachments/assets/3542ed15-2b59-4ecd-b8c2-d337eb137759)
+![Non_letter](https://github.com/user-attachments/assets/faa78e62-b9a3-4f26-ac95-54082a24fc5c)
+
+![Yaa_letter](https://github.com/user-attachments/assets/133777a1-d3ee-429d-8c4e-a13446909baa)
 
